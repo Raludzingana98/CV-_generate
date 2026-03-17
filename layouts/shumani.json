@@ -1,0 +1,26 @@
+{
+    "enabled_sections": {
+        "Personal Details": true,
+        "Qualification": true,
+        "Professional Membership": true,
+        "Projects": true,
+        "Career Summary": true,
+        "Career History": true,
+        "Career Highlights": true,
+        "Course Work": true,
+        "Training": true,
+        "Courses": true
+    },
+    "section_order": [
+        "Personal Details",
+        "Training",
+        "Qualification",
+        "Courses",
+        "Professional Membership",
+        "Career Summary",
+        "Career History",
+        "Career Highlights",
+        "Course Work",
+        "Projects"
+    ]
+}

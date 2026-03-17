@@ -1,0 +1,107 @@
+{
+  "software_engineering": [
+    "software",
+    "developer",
+    "programmer",
+    "software engineer",
+    "full stack",
+    "backend",
+    "frontend",
+    "sde"
+  ],
+  "data_science": [
+    "data scientist",
+    "data science",
+    "machine learning",
+    "ml",
+    "data analyst",
+    "ai",
+    "artificial intelligence"
+  ],
+  "devops": [
+    "devops",
+    "site reliability",
+    "sre",
+    "platform engineer",
+    "cloud engineer"
+  ],
+  "cybersecurity": [
+    "security",
+    "cyber",
+    "infosec",
+    "secops",
+    "penetration",
+    "security analyst",
+    "security engineer"
+  ],
+  "mechanical_engineering": [
+    "mechanical",
+    "mech",
+    "mechatronics",
+    "mechanical engineer"
+  ],
+  "electrical_engineering": [
+    "electrical",
+    "electronics",
+    "ee",
+    "electrical engineer"
+  ],
+  "civil_engineering": [
+    "civil",
+    "construction",
+    "structural",
+    "civil engineer"
+  ],
+  "network_engineering": [
+    "network",
+    "networking",
+    "network engineer",
+    "ccna",
+    "ccnp"
+  ],
+  "healthcare": [
+    "health",
+    "medical",
+    "clinic",
+    "healthcare",
+    "nurse",
+    "doctor",
+    "physician"
+  ],
+  "finance": [
+    "finance",
+    "financial",
+    "accounting",
+    "accountant",
+    "cfo",
+    "analyst"
+  ],
+  "marketing": [
+    "marketing",
+    "brand",
+    "social media",
+    "content",
+    "seo"
+  ],
+  "management": [
+    "manager",
+    "management",
+    "director",
+    "lead",
+    "vp"
+  ],
+  "legal": [
+    "legal",
+    "law",
+    "attorney",
+    "lawyer",
+    "paralegal"
+  ],
+  "academic": [
+    "academic",
+    "professor",
+    "lecturer",
+    "research",
+    "phd"
+  ]
+}

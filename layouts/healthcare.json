@@ -1,0 +1,172 @@
+{
+  "sections": [
+    {
+      "name": "Personal Details",
+      "type": "key_values",
+      "fields": [
+        {
+          "label": "Full Name",
+          "key": "CANDIDATE_NAME"
+        },
+        {
+          "label": "Known As",
+          "key": "KNOWN_AS"
+        },
+        {
+          "label": "Race and Gender",
+          "key": "RACE_GENDER"
+        },
+        {
+          "label": "Nationality",
+          "key": "NATIONALITY"
+        },
+        {
+          "label": "Marital Status",
+          "key": "MARITAL_STATUS"
+        },
+        {
+          "label": "Date of Birth",
+          "key": "DOB"
+        },
+        {
+          "label": "Driver's License / Own Car",
+          "key": "DRIVERS"
+        },
+        {
+          "label": "Notice Period",
+          "key": "NOTICE"
+        },
+        {
+          "label": "Do you have clear criminal record",
+          "key": "CRIMINAL"
+        },
+        {
+          "label": "Area of residence",
+          "key": "RESIDENCE"
+        },
+        {
+          "label": "Languages",
+          "key": "LANGUAGES"
+        },
+        {
+          "label": "Salary Expectations",
+          "key": "SALARY_EXP"
+        },
+        {
+          "label": "Skills",
+          "key": "SKILLS"
+        },
+        {
+          "label": "Computer literacy",
+          "key": "COMPUTER"
+        },
+        {
+          "label": "Experience",
+          "key": "EXPERIENCE_SUMMARY"
+        }
+      ]
+    },
+    {
+      "name": "Courses",
+      "type": "table",
+      "data_key": "courses",
+      "min_rows": 4,
+      "columns": [
+        {
+          "header": "COURSE NAME",
+          "key": "course_name"
+        },
+        {
+          "header": "INSTITUTION",
+          "key": "institution"
+        },
+        {
+          "header": "DATE",
+          "key": "date"
+        },
+        {
+          "header": "STATUS",
+          "key": "status"
+        }
+      ]
+    },
+    {
+      "name": "Qualification",
+      "type": "table",
+      "data_key": "qualifications",
+      "min_rows": 4,
+      "columns": [
+        {
+          "header": "QUALIFICATION",
+          "key": "qualification"
+        },
+        {
+          "header": "INSTITUTION",
+          "key": "institution"
+        },
+        {
+          "header": "YEAR",
+          "key": "date"
+        },
+        {
+          "header": "STATUS",
+          "key": "status"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "type": "legacy"
+    },
+    {
+      "name": "Training",
+      "type": "list",
+      "data_key": "training"
+    },
+    {
+      "name": "Career Highlights",
+      "type": "list",
+      "data_key": "career_highlights"
+    },
+    {
+      "name": "Career Summary",
+      "type": "table",
+      "data_key": "career_summary",
+      "min_rows": 5,
+      "columns": [
+        {
+          "header": "COMPANY",
+          "key": "company"
+        },
+        {
+          "header": "POSITION",
+          "key": "position"
+        },
+        {
+          "header": "DATES",
+          "key": "dates"
+        }
+      ]
+    },
+    {
+      "name": "Career History",
+      "type": "career_history",
+      "data_key": "career_history",
+      "item_schema": [
+        {
+          "company": "string",
+          "date": "string",
+          "final_position": "string",
+          "reason_for_leaving": "string",
+          "responsibilities": [
+            "string"
+          ],
+          "achievements": [
+            "string"
+          ],
+          "is_current": false
+        }
+      ]
+    }
+  ]
+}
