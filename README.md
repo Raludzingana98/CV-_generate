@@ -59,4 +59,4 @@ Standardized output using several premium styles:
 - `clean_up.py`: Post-generation document formatting and optimization.
 
 ---
-*Developed for SISOL Recruitment*
+*Developed for SISOL Recruitment* by SHUMANI MARVELLOUS RALUDZINGANA
