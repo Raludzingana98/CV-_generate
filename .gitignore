@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.venv
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Project Specific
+uploads/
+knowledge_base/
+FINAL_SISOL_RESUME.docx
+Professional_CV_Template.docx
+test_output.docx
+test_output2.docx
+structured_data.json
+logo.png

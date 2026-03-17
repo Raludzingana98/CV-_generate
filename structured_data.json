@@ -1,0 +1,278 @@
+{
+    "header": {
+        "cv_of": "JOHN MOTSUMI",
+        "position_applied": "Mechanical Engineer (Low Pressure Services)",
+        "presented_by": "Mahlatse Matlou",
+        "date": "2025-10-22",
+        "current_salary": "R 63 001.83 Basic",
+        "salary_expectation": "Negotiable",
+        "email": "HR2@SISOLPROJECTS.CO.ZA"
+    },
+    "personal_details": {
+        "full_name": "John Motsumi",
+        "known_as": "John",
+        "gender": "",
+        "race": "African",
+        "nationality": "South African",
+        "residential_address": "",
+        "marital_status": "Single",
+        "dob": "1983-08-08",
+        "drivers_license": "Code 10",
+        "medical_aid": "",
+        "dependents": "",
+        "area_residence": "Midrand- willing to relocate",
+        "availability": "Immediate",
+        "salary_expectations": "Negotiable",
+        "computer_literacy": "MS Office, AutoCAD, Data Acquisition System",
+        "experience_summary": "Mechanical Engineer with over 15 years of professional experience in industrial utilities, HVAC systems, plumbing, pressure systems, and plant maintenance across consulting, project management, and operations roles.",
+        "languages": [
+            "English",
+            "Sepedi",
+            "Tsonga",
+            "Zulu"
+        ],
+        "skills": [
+            "MS Office",
+            "AutoCAD",
+            "Data Acquisition System",
+            "HVAC Systems",
+            "Plumbing",
+            "Pressure Systems",
+            "Plant Maintenance",
+            "Project Management",
+            "Fire Engineering",
+            "Tender Management"
+        ]
+    },
+    "training": [],
+    "courses": [],
+    "qualifications": [
+        {
+            "qualification": "Fire Engineering Level 2",
+            "institution": "Institution of Fire Engineers",
+            "date": "2022",
+            "status": "Completed"
+        },
+        {
+            "qualification": "Auto Desk Revit MEP",
+            "institution": "CAD Corporation",
+            "date": "2018",
+            "status": "Completed"
+        },
+        {
+            "qualification": "Bachelor of Technology Mechanical Engineering",
+            "institution": "University of South Africa",
+            "date": "2018",
+            "status": "Completed"
+        },
+        {
+            "qualification": "Government Certificate of Competency: Factories",
+            "institution": "Department of Labor",
+            "date": "2017",
+            "status": "Completed"
+        },
+        {
+            "qualification": "National Diploma Mechanical Engineering",
+            "institution": "Vaal University of Technology",
+            "date": "2008",
+            "status": "Completed"
+        }
+    ],
+    "professional_membership": [
+        {
+            "board_name": "ECSA",
+            "profession": "Professional Engineering Technician",
+            "year": "2012",
+            "prof_no": "201230073"
+        }
+    ],
+    "career_highlights": [],
+    "projects": [
+        {
+            "project_name": "Unisa OR Tambo Admin Building Main Incomer Low-Voltage Switchgear Upgrade",
+            "project_value": "R 4 million",
+            "description": [
+                "Ken CAD Consulting was appointed as a consulting company to manage the project on behalf of the Principal Contractor called Krone Electrical for the Upgrade of the main incomer 400V low-voltage switchgear panel which is fed by three (3) 11000V/400 V main transformers at the University of South Africa OR Tambo building.",
+                "Appointed as Project Engineer for the duration of the project from start to finish, managing Krone Electrical technical team, coordinating with Unisa Project Manager and their technical team, as well as the electrical distribution board manufacturer.",
+                "The project was completed successfully and handed over to the client (Unisa)."
+            ]
+        },
+        {
+            "project_name": "Electrical Evaluation, Installation and Commissioning for 5 Primary School Classroom Design & Construction",
+            "project_value": "R10.8 million",
+            "description": [
+                "As a Consulting Engineer, responsible for electrical evaluation by tracing underground electric cables network and electrical wiring in collaboration with Architects to include in the construction site plan design, as well as identifying hazardous fault findings on electrical connections to be corrected.",
+                "Doing electrical load calculations and issuing technical evaluation reports to form part of the consolidated report to be submitted to the Department of Education.",
+                "Engage with the local authority (Municipality) for electrical connection application to have additional load current, to accommodate newly added classrooms and the future estimated additional structures and facilities in collaboration with Architects.",
+                "Assist in identifying the position of the fire prection systems in collaboration with Architects and engaging with local authority for fire hydrant installation application request.",
+                "Manage electrical installation team during construction to ensure that it is in compliance with the relevant electrical installation regulation and SANS 10142 standard for the wiring of premises and also involved during commissioning to ensure safety and validation for the issuing of the certificate of compliance."
+            ]
+        },
+        {
+            "project_name": "Fire Protection System Installation Evaluation - Ken CAD Consulting",
+            "project_value": "R24 million",
+            "description": [
+                "As a Consulting Engineer, tasked to do investigation and evaluation on fire protection systems installations at SAYM rehabilitation Centre construction site in Nelspruit, Mpumalanga, South Africa for Ken CAD Consulting.",
+                "Ensure that the installation was incompliance with SANS 10400T of National Building Regulation, SANS 10139 for Planning, Design, Installation and Maintenance for Fire Detection and Fire Alarm Systems, and in accordance to Fire Protection Plan in collaboration with Architects.",
+                "Issue fire protection evaluation report with recommendations."
+            ]
+        },
+        {
+            "project_name": "HVAC Installation for Adapt IT Commercial Building - (Tsumi Engineers)",
+            "project_value": "R40 million",
+            "description": [
+                "Appointed as Project Engineer for HVAC installation project duration, to manage the installation team of artisans for Tsumi Engineers in partnership with Aerotech under ProBuild (Principal Contractor) on behalf of a client (Adapt IT) in Midrand.",
+                "Ensuring that the installation was executed in accordance to the available BIM drawing with the aid of Auto desk Revit MEP calculations and in collaboration with electrical contractor, building contractors, Architects, duct manufacturer and supplier, HVAC Consulting Engineer appointed by ProBuild.",
+                "The HVAC project was completed successfully in four (4) months as scheduled by ProBuild."
+            ]
+        },
+        {
+            "project_name": "Investigation of Building Flooding at the CIDB Building - Tsumi Engeers",
+            "project_value": "R1.5 million",
+            "description": [
+                "Tsumi Engineers was contracted for the submerged underground water sump pump maintenance at the CIDB building they recently bought in Centurion.",
+                "In collaboration with an Architect and plumbing team and coordination with facilities Manager, the root cause for building flooding was detected.",
+                "Issued the investigation report to their Facilities Manager with a cost estimation of R1.5 million for repairs.",
+                "Designed and installed a secondary sump pump after pressure and flow rate was calculated taking in to consideration all stormwater drainage into the sump pump pit at the highest rainfall intensity as major solution to eliminate flooding."
+            ]
+        },
+        {
+            "project_name": "Railway Mobile Laboratory Vehicle Design - Transnet Freight Rail",
+            "project_value": "R6.8 million",
+            "description": [
+                "As a Junior Manager for Transnet Freight Rail, responsible for maintenance, asset management including equipment life cycle monitoring and evaluation, and design project management.",
+                "Compiled designed specification and project proposal to Transnet Executive Management for the refurbishment of railway mobile laboratory vehicle which came to the end of its life cycle.",
+                "Managed the project from the start to finish in collaboration with Transnet Engineering design team (Drawing office, FEA specialists, Manufacturing workshop team), as well as railway vehicle technology management team (Bogies suspension, wheel & rail interaction, Braking system and coupler).",
+                "The project was completed successfully within the budgeted CAPEX and the vehicle was certified to run within the railway line by Railway and Safety Regulator after commissioning."
+            ]
+        }
+    ],
+    "career_summary": [
+        {
+            "company": "Freelancing",
+            "position": "Freelancing",
+            "dates": "April 2025- Current"
+        },
+        {
+            "company": "Kencad Consulting - Hartbeespoort, North West",
+            "position": "Consulting Engineer",
+            "dates": "February 2022 - March 2025"
+        },
+        {
+            "company": "Tsumi Engineers - Midrand, Gauteng",
+            "position": "Project Manager",
+            "dates": "November 2019 - January 2022"
+        },
+        {
+            "company": "Transnet Freight Rail - Pretoria, Nzasm Building",
+            "position": "Chief Engineering Technician (Junior Manager)",
+            "dates": "July 2008 - October 2019"
+        },
+        {
+            "company": "Transnet Freight Rail - Bursary Office, Johannesburg, Carlton Centre",
+            "position": "Engineering Technician Trainee",
+            "dates": "January 2008 - June 2008"
+        },
+        {
+            "company": "Hall Longmore (Murray & Roberts Division) - Wadesville, Germiston",
+            "position": "Engineering Technician Trainee",
+            "dates": "June 2006 - July 2007"
+        }
+    ],
+    "career_history": [
+        {
+            "company": "KENCAD CONSULTING - HARTEBEESPOORT, NORTH WEST",
+            "date": "February 2022 - March 2025",
+            "final_position": "Consulting Engineer",
+            "reason_for_leaving": "Due to a lack incoming projects and limited growth opportunities, he decided to resign and pursue his own venture",
+            "responsibilities": [
+                "Conducting mechanical and electrical consulting for building services onsite by collaborating with Architects, plumbers, electrical engineers to integrate mechanical systems within the building design (plumbing, sump pumps, HVAC systems etc.).",
+                "Conduct site inspections to ensure that both mechanical and electrical systems are installed correctly and in accordance to the relevant regulations (SANS/SABS/ASTM/ISO) and safety standards, and in accordance to project designs specification (i.e. General Assembly Drawings of electrical wiring, switchgears, pumps).",
+                "Overseeing the installation, operations and maintenance of mechanical and electrical equipment.",
+                "Participating in testing & commissioning of electrical and mechanical installation to ensure systems are functioning correctly.",
+                "Compiling technical reports for the overall work from design, inspection up to testing & commissioning for record keeping.",
+                "Tender specification management including cost estimation of design, installation and maintenance in bids for electrical and mechanical projects.",
+                "Collaborate with Architects to integrate fire protection & safety into the building design incorporating fire resistant materials like fire doors, the establishment of safety evacuation routes in accordance to fire safety standards (SANS10400).",
+                "Conduct fire risk assessments onsite to identify potential fire hazards within the building."
+            ],
+            "achievements": [],
+            "is_current": false
+        },
+        {
+            "company": "TSUMI ENGINEERS - MIDRAND, GAUTENG",
+            "date": "November 2019 - January 2022",
+            "final_position": "Project Manager",
+            "reason_for_leaving": "Family business",
+            "responsibilities": [
+                "Overseeing the installation, operations and maintenance of mechanical and electrical equipment by managing maintenance team and contractors ensuring that they are familiar with their and that the jobs are executed safety according to the relevant standards, maintenance and project specifications, as well as offering them technical skills & support to ensure quality work.",
+                "Conducting site inspections to ensure that both mechanical and electrical systems are installed correctly and in accordance to the relevant regulations (SANS/SABS/ASTM/ISO) and safety standards, and in accordance to project designs specification (i.e. General Assembly Drawings of electrical wiring, switchgears, pumps, HVAC system etc.).",
+                "Participating in testing & commissioning of electrical and mechanical installation to ensure systems are functioning correctly.",
+                "Consulting in mechanical, plumbing and electrical projects for commercial building construction services including research & design drawings of HVAC, plumbing work, pump systems design & installation, plant refurbishments.",
+                "Compiling mechanical and electrical work specifications in accordance to relevant SANS/SABS standards and Occupational Health & Safety (QCP's, work instructions, maintenance specs, method statement/project plan).",
+                "Manage projects and maintenance CAPEX by ensuring that work is executed within budget without compromising quality.",
+                "Assist in building business profile for company growth.",
+                "Support administration with project proposal and pricing for the bidding process.",
+                "Compiling technical reports for the overall work from design, inspection up to testing & commissioning for record keeping.",
+                "Supply, delivery & installation of mechanical and electrical equipment for commercial and industrial sites in accordance to clients\u2019 specifications and in compliance with relevant SANS/SANS/ASTM/IEC standards (Electrical cables, mechanical and electronic control valves, pumps, relays, pressure switches etc.).",
+                "Asset management like harness, scaffoldings, tools & equipment etc. ensuring that they are readily available during installation projects and maintenance.",
+                "Tender specification management including cost estimation of design, installation and maintenance in bids for electrical and mechanical projects."
+            ],
+            "achievements": [],
+            "is_current": false
+        },
+        {
+            "company": "TRANSNET FREIGHT RAIL - PRETORIA, NZASM BUILDING",
+            "date": "July 2013 - October 2019",
+            "final_position": "Chief Engineering Technician (Junior Manager)",
+            "reason_for_leaving": "Unfair dismissal",
+            "responsibilities": [
+                "Research & development for various Transnet Freight Rail heavy haul operational trains within its business units using data acquisition systems, simulations as part of feasibility study.",
+                "Project management (Project Planning & coordination with Transnet Freight Rail business units\u2019 operations, vehicle design specifications, compilations and management with Transnet Engineering and our Technology Management engineers team from start to finish, including testing & commissioning)",
+                "Offering technical support to both the supply chain and procurement departments in compiling equipment and materials inventory list, assist in identifying correct contractor during tender evaluations, and to ensure that correct materials and equipment are purchased for routine maintenance and design projects, as well as maintaining good relationship with our suppliers to ensure that continuous delivery of quality products timeously.",
+                "Safety management - which includes train derailment investigations by means of Blackbox data analysis, train audits by determine the rail worthiness by means of train stopping distance measurements, wear & tear on brake systems, coupling mechanisms and that they comply with Railway Safety Regulator (RSR), operational train compilations and train handling guidelines design & implementation for new train services within Transnet Freight Rail business unit\u2019s network.",
+                "Train data acquisition and analysis, as well as technical report writing.",
+                "Maintenance management",
+                "Technical teams\u2019 management ensuring that all technical staff understand their roles and that maintenance work is executed safely and timeously according to SANS/SABS/SAR Transnet regulation standards, as well as signing their time cards according the work performed.",
+                "Maintenance budget drafting, maintenance schedules and specification design.",
+                "Manage capex for annual assets maintenance like mobile laboratory railway vehicle auxiliaries and new designs of railway laboratory vehicles, data acquisition systems etc. and that all work is executed within budget.",
+                "Manage contractors - ensuring that they execute work safely and timeously in accordance to Occupational Health & Safety standards and in accordance to our company specifications and satisfaction.",
+                "Asset management - Technical data acquisition systems, mobile railway laboratory vehicles, company vehicles, ensuring that they are readily available, operate effectively & efficiently and safety for train operation feasibility testing and evaluation within Transnet network on behalf of client load expansion, as well as storage handling to ensure protection against wear & tear, physical damages, vandalization and stolen."
+            ],
+            "achievements": [],
+            "is_current": false
+        },
+        {
+            "company": "TRANSNET FREIGHT RAIL - BURSARY OFFICE, JOHANNESBURG, CARLTON CENTRE",
+            "date": "January 2008 - June 2008",
+            "final_position": "Engineering Technician Trainee",
+            "reason_for_leaving": "",
+            "responsibilities": [
+                "Research & development.",
+                "Train dynamics calculations.",
+                "Train brake system design calculations.",
+                "Engineering design project.",
+                "Condition monitoring (Locomotives compressor oil analysis, transformer oil analysis).",
+                "Locomotive maintenance fault finding on high and low voltage terminals, exhausters, traction."
+            ],
+            "achievements": [],
+            "is_current": false
+        },
+        {
+            "company": "HALLLONGMORE (MURRAY & ROBERTS DIVISION) - WADEVILLE, GERMISTON",
+            "date": "June 2006 - July 2007",
+            "final_position": "Engineering Technician Trainee",
+            "reason_for_leaving": "",
+            "responsibilities": [
+                "Maintenance fault findings on PLC drives.",
+                "Maintenance on belt drives, electrical panels, centrifugal pumps, pistol pressure pumps, induction motors, vane & reciprocating compressors, spiral & ERW pipe conveyor belts, overhead cranes.",
+                "Condition monitoring on electrical panels (Red connection detection).",
+                "Condition monitoring on motor gearbox and transformer oil (Oil sample analysis).",
+                "Maintenance data capturing system training (SAP system).",
+                "Operator duties (March 2006 \u2013 May 2006): Submerge Arc welding to fit in stiffinery bands in mild steel spiral pipes during pipe manufacturing for Sasol; Hydro/pressure vessel testing of spiral pipes."
+            ],
+            "achievements": [],
+            "is_current": false
+        }
+    ],
+    "llm_enhanced": true
+}
