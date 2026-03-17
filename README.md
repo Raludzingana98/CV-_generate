@@ -26,6 +26,7 @@ A powerful Streamlit-based application for extracting structured data from resum
 ```bash
 streamlit run dashboard.py
 ```
+or Visit this cv-generate-dcgznqq4behhupzrtnkzow.streamlit.app
 
 ## 🛠️ Key Features
 
