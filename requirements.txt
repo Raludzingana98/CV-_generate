@@ -1,0 +1,10 @@
+streamlit
+streamlit-sortables
+pandas
+pdfplumber
+python-docx
+Pillow
+pytesseract
+google-genai
+python-dotenv
+openai
