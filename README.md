@@ -61,10 +61,10 @@ Create a .env file in the root directory:
    AZURE_OPENAI_API_KEY=your_api_key_here
    AZURE_OPENAI_ENDPOINT=your_endpoint_here
    AZURE_OPENAI_DEPLOYMENT=gpt-4o-mini
-## ▶️ Running the Application
+▶️ Running the Application
 streamlit run dashboard.py
 
-## 📁 Project Structure
+📁 Project Structure
 ```bash
 dashboard.py          # Main Streamlit app
 style_utils.py        # Layout logic and styling
@@ -74,5 +74,42 @@ generate_*.py         # CV template generators
 layouts/              # Role-based layout configs
 extract_text.py       # PDF/DOCX extraction
 clean_up.py           # Post-processing & formatting
+
+## 🎯 Use Cases
+- Generate professional CVs instantly  
+- Standardize candidate resumes for recruitment  
+- Customize CVs based on job roles  
+- Automate resume formatting workflows  
+
+---
+
+## 👨‍💻 Author
+**Shumani Marvellous Raludzingana**
+
+- GitHub: https://github.com/Raludzingana98  
+- LinkedIn: https://linkedin.com/in/shumani-raludzingana  
+
+---
+
+## ⭐ Why This Project Stands Out
+This project demonstrates:
+
+- Real-world AI application development  
+- End-to-end system design and architecture  
+- Data processing and automation skills  
+- User-focused interface design  
+
+---
+
+## 📌 Future Improvements
+- Add support for more CV templates  
+- Integrate advanced NLP models  
+- Export to multiple formats (PDF, DOCX, HTML)  
+- Enhance UI/UX with advanced interactivity  
+
+---
+
+## 📝 License
+This project is for educational and professional demonstration purposes.
 
 
