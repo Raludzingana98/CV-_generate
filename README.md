@@ -75,30 +75,4 @@ layouts/              # Role-based layout configs
 extract_text.py       # PDF/DOCX extraction
 clean_up.py           # Post-processing & formatting
 
----
-## 🎯 Use Cases
-   Generate professional CVs instantly
-   Standardize candidate resumes for recruitment
-   Customize CVs based on job roles
-   Automate resume formatting workflows
 
-## 👨‍💻 Author
-   Shumani Marvellous Raludzingana
-   
-      GitHub: https://github.com/Raludzingana98
-      LinkedIn: https://linkedin.com/in/shumani-raludzingana
-## ⭐ Why This Project Stands Out
-This project demonstrates:
-
-   Real-world AI application development
-   End-to-end system design and architecture
-   Data processing and automation skills
-   User-focused interface design
-
-## 📌 Future Improvements
-   Add support for more CV templates
-   Integrate advanced NLP models
-   Export to multiple formats (PDF, DOCX, HTML)
-   Enhance UI/UX with advanced interactivity
-
-## 📝 License
