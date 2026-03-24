@@ -1,63 +1,104 @@
-# 📄 Professional CV Generator Dashboard
+# 💼 Professional CV Generator Dashboard
 
-A powerful Streamlit-based application for extracting structured data from resumes (PDF/DOCX) and generating standardized, premium-quality CV documents.
+An AI-powered web application that extracts, structures, and transforms raw resumes (PDF/DOCX) into standardized, high-quality CVs tailored to specific roles.
 
-## 🚀 Quick Start
+Built with Streamlit, this system provides an end-to-end pipeline for intelligent resume parsing, dynamic layout selection, and automated document generation.
 
-### Prerequisites
-- Python 3.9+
-- [Streamlit](https://streamlit.io/)
-- [python-docx](https://python-docx.readthedocs.io/)
-- [Google GenAI Python SDK](https://github.com/google/generative-ai-python)
+---
 
-### Installation
-1. Install dependencies:
-   ```bash
-   pip install streamlit python-docx openai python-dotenv streamlit-sortables pandas
-   ```
-2. Create a `.env` file in the root directory (one has been created for you) and add your credentials:
-   ```env
+## 🌐 Live Demo
+👉 https://cv-generate-dcgznqq4behhupzrtnkzow.streamlit.app
+
+---
+
+## 🧠 Key Features
+
+### 🔍 AI Resume Parsing
+- Extracts unstructured resume data into structured JSON format  
+- Handles PDF and DOCX inputs  
+- Uses AI to intelligently interpret content  
+
+### 🧩 Smart Layout Engine
+- Automatically selects CV layout based on job role  
+- Supports Software Engineering, Finance, DevOps, and more  
+- Manual drag-and-drop section customization  
+
+### 📄 Professional CV Templates
+- Multiple premium templates:
+  - Master (comprehensive)
+  - Professional (clean & modern)
+  - Unbranded (minimal)
+
+### ⚙️ End-to-End Pipeline
+- Extraction → Structuring → Editing → Generation → Cleanup  
+- Real-time JSON editing before final output  
+- Automatic removal of empty or redundant content  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend/UI:** Streamlit  
+- **Backend:** Python  
+- **AI Processing:** OpenAI API  
+- **Data Handling:** Pandas  
+- **Document Generation:** python-docx  
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/cv-generator.git
+cd cv-generator
+
+Install dependencies
+pip install -r requirements.txt
+
+Setup environment variables
+Create a .env file in the root directory:
    AZURE_OPENAI_API_KEY=your_api_key_here
    AZURE_OPENAI_ENDPOINT=your_endpoint_here
    AZURE_OPENAI_DEPLOYMENT=gpt-4o-mini
-   ```
-
-### Running the Application
-```bash
+## ▶️ Running the Application
 streamlit run dashboard.py
-```
-or Visit this cv-generate-dcgznqq4behhupzrtnkzow.streamlit.app
-
-## 🛠️ Key Features
-
-### 🧠 Automatic Layout Detection
-The system automatically determines the optimal section order based on the position applied for. It uses keyword matching against specialized technical layouts (e.g., Software Engineering, Finance, DevOps).
-- **Auto Mode**: Inferred from the "Position Applied" field.
-- **Manual Mode**: Drag-and-drop sections to customize the order.
-- **Preset Selection**: Force a specific technical layout from the dropdown.
-
-### 📄 Smart Template Engine
-Standardized output using several premium styles:
-- **Master**: Comprehensive template with layout support.
-- **Professional**: Clean design with dynamic section rendering.
-- **Unbranded**: Clean, neutral style for various needs.
-
-### 🔍 End-to-End Pipeline
-1. **Extraction**: Advanced AI parsing of raw resumes into structured JSON.
-2. **Standardization**: Normalizes data fields (dates, company names, etc.).
-3. **Editor**: Real-time JSON and section-order editing before generation.
-4. **Cleanup**: Intelligent removal of empty bullet points and placeholder text.
 
 ## 📁 Project Structure
+```bash
+dashboard.py          # Main Streamlit app
+style_utils.py        # Layout logic and styling
+srt.py                # AI text-to-JSON structuring
+main.py               # Data normalization pipeline
+generate_*.py         # CV template generators
+layouts/              # Role-based layout configs
+extract_text.py       # PDF/DOCX extraction
+clean_up.py           # Post-processing & formatting
 
-- `dashboard.py`: Main Streamlit UI and application logic.
-- `style_utils.py`: Centralized styling, layout logic, and keyword matching.
-- `srt.py`: AI-powered text-to-JSON structuring.
-- `main.py`: Data normalization and pipeline utilities.
-- `generate_*.py`: Specific template generation logic.
-- `layouts/`: JSON configurations for different technical CV roles.
-- `extract_text.py`: Robust text extraction for PDF and DOCX.
-- `clean_up.py`: Post-generation document formatting and optimization.
 
----
-*Developed for SISOL Recruitment* by SHUMANI MARVELLOUS RALUDZINGANA
+## 🎯 Use Cases
+   Generate professional CVs instantly
+   Standardize candidate resumes for recruitment
+   Customize CVs based on job roles
+   Automate resume formatting workflows
+
+## 👨‍💻 Author
+   Shumani Marvellous Raludzingana
+   
+      GitHub: https://github.com/Raludzingana98
+      LinkedIn: https://linkedin.com/in/shumani-raludzingana
+## ⭐ Why This Project Stands Out
+This project demonstrates:
+
+   Real-world AI application development
+   End-to-end system design and architecture
+   Data processing and automation skills
+   User-focused interface design
+
+## 📌 Future Improvements
+   Add support for more CV templates
+   Integrate advanced NLP models
+   Export to multiple formats (PDF, DOCX, HTML)
+   Enhance UI/UX with advanced interactivity
+
+## 📝 License
