@@ -75,7 +75,7 @@ layouts/              # Role-based layout configs
 extract_text.py       # PDF/DOCX extraction
 clean_up.py           # Post-processing & formatting
 
-
+---
 ## 🎯 Use Cases
    Generate professional CVs instantly
    Standardize candidate resumes for recruitment
